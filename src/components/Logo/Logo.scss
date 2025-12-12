@@ -1,7 +1,7 @@
 .logo {
   position: fixed;
   top: 5%;
-  left: 66px;
+  left: 50px;
   z-index: 40;
 
   border: none;
@@ -12,9 +12,9 @@
   background-color: white;
   color: 060606;
   border: 1px solid white;
-  padding: 14px 10px;
+  padding: 14px 15px;
   font-size: 16px;
-  font-weight: lighter;
+  font-weight: bold;
 
   &.light {
     color: white;

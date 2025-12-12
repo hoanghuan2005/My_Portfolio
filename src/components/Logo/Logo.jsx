@@ -28,7 +28,7 @@ const Logo = () => {
   return (
     <>
       <div ref={logoRef} className={logoClassNames}>
-        DD
+        H
       </div>
     </>
   );
